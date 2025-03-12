@@ -1,4 +1,1 @@
-"# AFKSupporter" 
-"# AFKSupporter" 
-"# AFKSupporter" 
-"# AFKSupporter" 
+# AFKSupporter
