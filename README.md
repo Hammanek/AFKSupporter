@@ -1,5 +1,9 @@
-# AutoAFK
+# AutoAFK Supporter Edition
 AutoAFK is a tool to automate android games via ADB using Python, Pyscreeze and OpenCV. The bot supports image recognition with fuzzy matching, as well as single pixel recognition to automate actions. All actions are done through ADB which means the window does not need to be in focus and you can continue to use your computer as normal while it runs.
+
+#Supporter Edition is still updated and working to this day.
+
+#To get supporter edition access, see information [here](https://ko-fi.com/afksupporter).
 
 While the bot is designed for AFK Arena the core logic will work for anything rendered in emulator.
 
