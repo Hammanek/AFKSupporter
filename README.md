@@ -37,6 +37,8 @@ In the current release you can select from the following tasks:
 * Collect available daily and weekly quest chests
 * Clear Merchant menu free gifts & !'s
 * Make customizable daily store purchases
+* Automatically Run Lab
+* Run Fight of Fates / Battle of Blood
 
 ## Arena Ticket spending
 * Run a configurable number of Arena Tickets
@@ -53,19 +55,6 @@ Configure your MuMu Player client so that:
 * AFK's language is set to English
 
 Then download the latest [release](https://github.com/Hammanek/AFKSupporter/releases), unzip and run AutoAFK.exe.
-
-# Road map
-The following features will be added soon(tm)
-* Automatically Run Lab
-* Push Temporal Rift
-* Discord notification on success/failure
-* Run Fight of Fates / Battle of Blood
-* Purchase selected Dimensional Gear
-* Documentation on how to full automate launching, loading and running the script for managing accounts via cron
-
-# AFK Journey automation integration
-Download bot here - https://github.com/Fortigate/AutoAFK2
-Use enable_afkjourney and afkjourney_cmd properties in settings.ini, see example use in files here.
 
 # Telegram integration
 Contact BotFather on Telegram, create your bot, get token and chat id.
